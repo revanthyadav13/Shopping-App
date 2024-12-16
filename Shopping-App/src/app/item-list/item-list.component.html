@@ -1,0 +1,22 @@
+<div class="container mt-4">
+  <div class="d-flex justify-content-end mb-4">
+    <button class="btn btn-info" (click)="confirmLogout()">Logout</button>
+  </div>
+  <h2 class="text-center mb-4">Item List</h2>
+ <div class="input-group mb-3">
+    <input #newItemName class="form-control" placeholder="Item Name" />
+    <input #newItemPrice type="number" class="form-control" placeholder="Price" />
+    <button class="btn btn-info" (click)="addItem(newItemName.value, +newItemPrice.value)">Add Item</button>
+  </div>
+
+  <div class="mb-3">
+    <h3>Total Price: {{c}}{{ totalPrice}}</h3>
+  </div>
+
+  <ul class="list-group mb-4">
+    <li *ngFor="let item of items" class="list-group-item d-flex justify-content-between align-items-center">
+      {{ item.name }} - {{c}}{{ item.price}}
+      <button class="btn btn-danger btn-sm" (click)="deleteItem(item.id)">Delete</button>
+    </li>
+  </ul>
+</div>

@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Shopping-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|c:\\users\\user\\source\\repos\\shopping-app\\shopping-app\\src\\app\\item-list\\item-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|solutionrelative:shopping-app\\src\\app\\item-list\\item-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|c:\\users\\user\\source\\repos\\shopping-app\\shopping-app\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|solutionrelative:shopping-app\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|c:\\users\\user\\source\\repos\\shopping-app\\shopping-app\\src\\app\\item-list\\item-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|solutionrelative:shopping-app\\src\\app\\item-list\\item-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|c:\\users\\user\\source\\repos\\shopping-app\\shopping-app\\src\\app\\item.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|solutionrelative:shopping-app\\src\\app\\item.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|c:\\users\\user\\source\\repos\\shopping-app\\shopping-app\\src\\app\\item-management\\item-management.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|solutionrelative:shopping-app\\src\\app\\item-management\\item-management.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|c:\\users\\user\\source\\repos\\shopping-app\\shopping-app\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|solutionrelative:shopping-app\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|c:\\users\\user\\source\\repos\\shopping-app\\shopping-app\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|solutionrelative:shopping-app\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|c:\\users\\user\\source\\repos\\shopping-app\\shopping-app\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|solutionrelative:shopping-app\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|c:\\users\\user\\source\\repos\\shopping-app\\shopping-app\\src\\app\\logout\\logout.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|solutionrelative:shopping-app\\src\\app\\logout\\logout.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|c:\\users\\user\\source\\repos\\shopping-app\\shopping-app\\src\\app\\logout\\logout.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|solutionrelative:shopping-app\\src\\app\\logout\\logout.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|c:\\users\\user\\source\\repos\\shopping-app\\shopping-app\\src\\app\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FBC3DB27-569D-4650-8CA0-7774579885A9}|Shopping-App\\Shopping-App.esproj|solutionrelative:shopping-app\\src\\app\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "item-list.component.html",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\item-list\\item-list.component.html",
+              "RelativeDocumentMoniker": "Shopping-App\\src\\app\\item-list\\item-list.component.html",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\item-list\\item-list.component.html",
+              "RelativeToolTip": "Shopping-App\\src\\app\\item-list\\item-list.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-13T10:17:52.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\Item.ts",
+              "RelativeDocumentMoniker": "Shopping-App\\src\\app\\Item.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\Item.ts",
+              "RelativeToolTip": "Shopping-App\\src\\app\\Item.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-13T09:38:03.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "Shopping-App\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\app.module.ts",
+              "RelativeToolTip": "Shopping-App\\src\\app\\app.module.ts",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-12T09:29:46.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "item-list.component.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\item-list\\item-list.component.ts",
+              "RelativeDocumentMoniker": "Shopping-App\\src\\app\\item-list\\item-list.component.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\item-list\\item-list.component.ts",
+              "RelativeToolTip": "Shopping-App\\src\\app\\item-list\\item-list.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-12T10:55:42.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "item-management.service.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\item-management\\item-management.service.ts",
+              "RelativeDocumentMoniker": "Shopping-App\\src\\app\\item-management\\item-management.service.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\item-management\\item-management.service.ts",
+              "RelativeToolTip": "Shopping-App\\src\\app\\item-management\\item-management.service.ts",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-12T09:21:43.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "Shopping-App\\src\\app\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\login\\login.component.ts",
+              "RelativeToolTip": "Shopping-App\\src\\app\\login\\login.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-12T10:08:16.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "Shopping-App\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "Shopping-App\\src\\app\\login\\login.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-12T09:29:09.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\angular.json",
+              "RelativeDocumentMoniker": "Shopping-App\\angular.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\angular.json",
+              "RelativeToolTip": "Shopping-App\\angular.json",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T09:29:14.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "logout.component.ts",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\logout\\logout.component.ts",
+              "RelativeDocumentMoniker": "Shopping-App\\src\\app\\logout\\logout.component.ts",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\logout\\logout.component.ts",
+              "RelativeToolTip": "Shopping-App\\src\\app\\logout\\logout.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-12T10:06:40.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "logout.component.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\logout\\logout.component.css",
+              "RelativeDocumentMoniker": "Shopping-App\\src\\app\\logout\\logout.component.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\logout\\logout.component.css",
+              "RelativeToolTip": "Shopping-App\\src\\app\\logout\\logout.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-12T09:30:21.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "login.component.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\login\\login.component.css",
+              "RelativeDocumentMoniker": "Shopping-App\\src\\app\\login\\login.component.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Shopping-App\\Shopping-App\\src\\app\\login\\login.component.css",
+              "RelativeToolTip": "Shopping-App\\src\\app\\login\\login.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-12T09:29:06.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
