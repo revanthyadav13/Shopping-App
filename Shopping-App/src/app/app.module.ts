@@ -9,13 +9,15 @@ import { ItemListComponent } from './item-list/item-list.component';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { AuthenticationService } from './auth/authentication.service';
+import { FileUploadComponent } from './file-upload/file-upload.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
     LogoutComponent,
-    ItemListComponent
+    ItemListComponent,
+    FileUploadComponent
   ],
   imports: [
     BrowserModule,

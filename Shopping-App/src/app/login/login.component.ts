@@ -16,22 +16,19 @@ export class LoginComponent {
   constructor(private authService: AuthenticationService, private router: Router) { }
 
   login() {
-    this.authService.login(this.username, this.password).subscribe(
-      (response) => {
-        // If login is successful, navigate to the item list
-        console.log('Login successful:', response);
-        localStorage.setItem('isAuthenticated', 'true');  // Optionally store the authentication status
-        this.router.navigate(['/item-list']);  // Redirect to item list page
-      },
-      (error) => {
-        // If there's an error, log it to the console and show an error message
-        console.error('Login failed:', error);
-        if (error.status === 401) {
-          this.errorMessage = 'Invalid username or password';
-        } else {
-          this.errorMessage = 'An error occurred, please try again later';
-        }
+    this.authService.login(this.username, this.password).subscribe(response => {
+      if (response && response.token) {
+        // Store the token and mark as logged in
+        this.authService.storeToken(response.token);
+        console.log('Login successful!');
+
+        // Navigate to items page after successful login
+        this.router.navigate(['/item-list']);  // Redirect to items page
+      } else {
+        console.log('Login failed!');
       }
-    );
+    }, error => {
+      console.error('Login error', error);
+    });
   }
 }
